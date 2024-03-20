@@ -12,5 +12,5 @@ def mypow(a,b,m=0):
     return result
 
 if __name__=='__main__':
-    read(a,b,m)
+    a,b,m=map(int,input().split())
     print(mypow(a,b,m))
