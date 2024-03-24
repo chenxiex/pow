@@ -1,2 +1,2 @@
-# pow
-Fast powering algorithm
+# pymath
+Math functions written in python
